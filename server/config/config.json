@@ -1,0 +1,12 @@
+{
+  "development":{
+    "PORT":3000,
+    "MONGODB_URI":"mongodb://localhost:27017/ChatApp",
+    "SECURITY_KEY":"STRUM_ZPK_NODE_APP"
+  },
+  "test":{
+    "PORT":3000,
+    "MONGODB_URI":"mongodb://localhost:27017/ChatApp",
+    "SECURITY_KEY":"STRUM_ZPK_NODE_APP_TEST"
+  }
+}
